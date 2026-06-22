@@ -1,3 +1,3 @@
 Select
   *
-from "Whatver we will find out"
+from databricks_airline_performance_data.v01.flights
